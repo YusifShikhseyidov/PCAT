@@ -4,6 +4,7 @@
   "description": "PCAT app",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,10 @@
   },
   "homepage": "https://github.com/YusifShikhseyidov/PCAT#readme",
   "devDependencies": {
+    "nodemon": "^2.0.14",
     "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
