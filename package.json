@@ -1,0 +1,22 @@
+{
+  "name": "clean-blog-project",
+  "version": "1.0.0",
+  "description": "PCAT app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YusifShikhseyidov/PCAT.git"
+  },
+  "author": "Yusuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YusifShikhseyidov/PCAT/issues"
+  },
+  "homepage": "https://github.com/YusifShikhseyidov/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
